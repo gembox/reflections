@@ -1,0 +1,9 @@
+When using the diff the text is highlighted
+and very easy to spot differences.
+With lots of text this would be tedious
+to nearly impossible.
+
+Having different versions of a file would
+allow you to compare code at various stages.
+This could let you go back to previous
+versions if changes did not work correctly.
