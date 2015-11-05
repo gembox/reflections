@@ -1,0 +1,9 @@
+When you initialize a repository
+you create the repository. This must
+create the needed references for git.
+
+The staging area are the items that have
+not been added to the commit. The working
+directory and repository already have the known
+contents. This allows the flexibility of what to
+inlcude and when.
