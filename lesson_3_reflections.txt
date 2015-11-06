@@ -2,3 +2,7 @@ Using a remote reposity will prevent
 loss of work if you have issues with a local
 machine. It will also allow collaboration with
 other users.
+
+When pulling changes manually you will be aware
+of what changes are being allowed into the repository.
+If they were automatic you could receive unwanted code.
