@@ -7,3 +7,12 @@ not been added to the commit. The working
 directory and repository already have the known
 contents. This allows the flexibility of what to
 inlcude and when.
+
+Using the staging area can ensure that you are
+making a single change before you commit those
+changes. It gives you a chance to review the
+work prior to committing it to the code.
+
+Diagrams help with branches by drawing clear
+paths of what branches exist, and what commits
+are in each branch.

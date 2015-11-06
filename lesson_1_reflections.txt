@@ -7,3 +7,21 @@ Having different versions of a file would
 allow you to compare code at various stages.
 This could let you go back to previous
 versions if changes did not work correctly.
+
+You might forget to commit code and lose work
+if you run into an issue with the computer.
+You might commit too much at once.
+
+Git allows multiple files in one commit since
+they are related. Google docs does not treat
+the fies as related so it saves them one at a time.
+
+Git log will show all of the commited versions.
+Git diff will allow comparison of these versions.
+
+With version control you can be confident that the
+ability to revert back to a previous version would
+be available.
+
+ I would like to use Git for my project code moving
+ forward.
