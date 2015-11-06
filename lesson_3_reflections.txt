@@ -6,3 +6,8 @@ other users.
 When pulling changes manually you will be aware
 of what changes are being allowed into the repository.
 If they were automatic you could receive unwanted code.
+
+A fork is a copy of another repository from someone on
+GitHub to your GitHub. A clone is a copy of a repository from
+GitHub to your machine, or locally on the machine. A branch
+is a different path in a repository from the exisitng path.
