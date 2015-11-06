@@ -1,1 +1,4 @@
-
+Using a remote reposity will prevent
+loss of work if you have issues with a local
+machine. It will also allow collaboration with
+other users.
