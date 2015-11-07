@@ -15,3 +15,7 @@ is a different path in a repository from the exisitng path.
 The benefit of having the most recent state of the remote
 would ensure that you are working off of the latest changes
 and don't have missing information when you go to commit.
+
+Without using git or github collaboration would be in some
+type of shared drive environment. This would not allow as much
+granular control over versioning, managing contorl, or saving options.
